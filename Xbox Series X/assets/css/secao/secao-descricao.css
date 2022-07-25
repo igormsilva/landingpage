@@ -1,0 +1,10 @@
+.secao__descricao {
+    color: #818181;
+    font-family: 'Inter';
+    font-size: 23px;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    margin-left: 7.125rem;
+    max-width: 500px;
+    padding-top: 1.438rem;
+}

@@ -1,0 +1,8 @@
+.secao__diferenciais--icone {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 96px;
+    width: 125px;
+    margin-left: 10rem;
+}

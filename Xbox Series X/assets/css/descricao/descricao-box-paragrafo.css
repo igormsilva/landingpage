@@ -1,0 +1,13 @@
+.descricao__box--paragrafo {
+    color: #8A8A8A;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 600;
+    left: 40rem;
+    line-height: 150%;
+    letter-spacing: -0.03em;
+    margin-top: 1rem;
+    max-width: 27.188rem;
+    position: relative;
+    top: 40rem;
+}

@@ -1,0 +1,14 @@
+.descricao__box--cta {
+    color: #9FB00B;
+    font-family: 'Inter';
+    font-size: 21px;
+    font-weight: 700;
+    left: 40rem;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    margin-top: 1rem;
+    max-width: 40rem;
+    position: relative;
+    text-transform: uppercase;
+    top: 40rem;
+}

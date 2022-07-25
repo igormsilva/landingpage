@@ -1,0 +1,11 @@
+.tecnologia__paragrafo {
+    color: #A0A0A0;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    margin-left: 7.125rem;
+    max-width: 25rem;
+    padding-top: 3rem;
+}

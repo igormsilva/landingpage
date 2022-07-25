@@ -1,0 +1,11 @@
+.controle__box--paragrafo {
+    
+    color: #000000;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    margin: 2rem 0 0 5rem;
+    max-width: 27.3rem;
+}

@@ -1,0 +1,11 @@
+.descricao__titulo {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 91px;
+    font-weight: bold;
+    letter-spacing: -0.02em;
+    line-height: 115%;
+    margin: auto;
+    max-width: 1070px;
+    text-align: center;
+}

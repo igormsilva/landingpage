@@ -1,0 +1,10 @@
+.secao__titulo {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 171px;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 7.125rem;
+    padding-top: 1.438rem;
+    z-index: 1;
+}

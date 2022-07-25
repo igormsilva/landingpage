@@ -1,0 +1,11 @@
+.controle__paragrafo {
+    color: #818181;
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    margin-left: 64rem;
+    margin-top: 4rem;
+    max-width: 22.875rem;
+}

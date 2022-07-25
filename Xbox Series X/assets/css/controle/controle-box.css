@@ -1,0 +1,11 @@
+.controle__box {
+    background: linear-gradient(155.3deg, #92E10B 1.33%, #BAFF43 46.46%, #588C00 92.54%);
+    box-shadow: inset 0px 4px 64px #B7FF3D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 702px;
+    width: 608px;
+    margin-left: 58.8rem;
+    margin-top: 60.8rem;
+}

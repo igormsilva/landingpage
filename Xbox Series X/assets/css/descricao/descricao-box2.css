@@ -1,0 +1,10 @@
+.descricao__box2 {
+    background: url(../../../assets/img/background-box2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 1565px;
+    margin: auto;
+    margin-top: -40rem;
+    width: 1232px;
+}

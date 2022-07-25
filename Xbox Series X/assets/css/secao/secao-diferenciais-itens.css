@@ -1,0 +1,12 @@
+.secao__diferenciais--item {
+    color: #818181;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    position: relative;
+    top: 8rem;
+    right: 14rem;
+    margin-left: 6rem;
+}

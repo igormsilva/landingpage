@@ -1,0 +1,12 @@
+.descricao__box--titulo {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 72px;
+    font-weight: 700;
+    left: 40rem;
+    letter-spacing: -0.03em;
+    line-height: 100%;
+    max-width: 40rem;
+    position: relative;
+    top: 40rem;
+}

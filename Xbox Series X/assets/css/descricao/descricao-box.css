@@ -1,0 +1,9 @@
+.descricao__box {
+    background: url(../../../assets/img/background-halo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1565px;
+    margin: auto;
+    margin-top: -20rem;
+    width: 1232px;
+}

@@ -1,0 +1,11 @@
+.cabecalho__botao {
+    background: #9BF00B;
+    font-family: 'Inter';
+    font-size: 15px;
+    font-weight: 700;
+    height: 60px;
+    margin-left: 30rem;
+    margin-right: 3.125rem;
+    text-transform: uppercase;
+    width: 189px;
+}
